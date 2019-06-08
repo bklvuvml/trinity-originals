@@ -12,3 +12,13 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.navigationBar {
+  height: 50px;
+}
+
+@media screen and (max-width: 992px) {
+ .navigationBar {
+   height: 150px;
+ }
+}
