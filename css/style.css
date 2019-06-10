@@ -5,6 +5,10 @@
   background-size: cover;
 }
 
+.cardBody {
+  background-color: gray;
+}
+
 .center {
   margin: 0;
   position: absolute;
